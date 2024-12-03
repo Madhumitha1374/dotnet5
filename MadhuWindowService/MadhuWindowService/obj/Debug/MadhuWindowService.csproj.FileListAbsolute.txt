@@ -1,0 +1,9 @@
+D:\DotNetWorking\MadhuWindowService\MadhuWindowService\bin\Debug\MadhuWindowService.exe.config
+D:\DotNetWorking\MadhuWindowService\MadhuWindowService\bin\Debug\MadhuWindowService.exe
+D:\DotNetWorking\MadhuWindowService\MadhuWindowService\bin\Debug\MadhuWindowService.pdb
+D:\DotNetWorking\MadhuWindowService\MadhuWindowService\obj\Debug\MadhuWindowService.csproj.AssemblyReference.cache
+D:\DotNetWorking\MadhuWindowService\MadhuWindowService\obj\Debug\MadhuWindowService.ProjectInstaller.resources
+D:\DotNetWorking\MadhuWindowService\MadhuWindowService\obj\Debug\MadhuWindowService.csproj.GenerateResource.cache
+D:\DotNetWorking\MadhuWindowService\MadhuWindowService\obj\Debug\MadhuWindowService.csproj.CoreCompileInputs.cache
+D:\DotNetWorking\MadhuWindowService\MadhuWindowService\obj\Debug\MadhuWindowService.exe
+D:\DotNetWorking\MadhuWindowService\MadhuWindowService\obj\Debug\MadhuWindowService.pdb

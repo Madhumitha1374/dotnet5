@@ -1,0 +1,13 @@
+﻿Installing assembly 'D:\DotNetWorking\MadhuWindowService\MadhuWindowService\bin\Debug\MadhuWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\DotNetWorking\MadhuWindowService\MadhuWindowService\bin\Debug\MadhuWindowService.InstallLog
+   assemblypath = D:\DotNetWorking\MadhuWindowService\MadhuWindowService\bin\Debug\MadhuWindowService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\DotNetWorking\MadhuWindowService\MadhuWindowService\bin\Debug\MadhuWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\DotNetWorking\MadhuWindowService\MadhuWindowService\bin\Debug\MadhuWindowService.InstallLog
+   assemblypath = D:\DotNetWorking\MadhuWindowService\MadhuWindowService\bin\Debug\MadhuWindowService.exe
+Restoring event log to previous state for source Service1.

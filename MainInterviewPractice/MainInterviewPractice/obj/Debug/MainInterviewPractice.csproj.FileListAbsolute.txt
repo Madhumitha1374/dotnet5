@@ -1,0 +1,7 @@
+D:\DotNetWorking\MainInterviewPractice\MainInterviewPractice\bin\Debug\MainInterviewPractice.exe.config
+D:\DotNetWorking\MainInterviewPractice\MainInterviewPractice\bin\Debug\MainInterviewPractice.exe
+D:\DotNetWorking\MainInterviewPractice\MainInterviewPractice\bin\Debug\MainInterviewPractice.pdb
+D:\DotNetWorking\MainInterviewPractice\MainInterviewPractice\obj\Debug\MainInterviewPractice.csproj.AssemblyReference.cache
+D:\DotNetWorking\MainInterviewPractice\MainInterviewPractice\obj\Debug\MainInterviewPractice.csproj.CoreCompileInputs.cache
+D:\DotNetWorking\MainInterviewPractice\MainInterviewPractice\obj\Debug\MainInterviewPractice.exe
+D:\DotNetWorking\MainInterviewPractice\MainInterviewPractice\obj\Debug\MainInterviewPractice.pdb

@@ -1,0 +1,15 @@
+D:\DotNetWorking\Panels_wpf\Panels_wpf\bin\Debug\Panels_wpf.exe.config
+D:\DotNetWorking\Panels_wpf\Panels_wpf\bin\Debug\Panels_wpf.exe
+D:\DotNetWorking\Panels_wpf\Panels_wpf\bin\Debug\Panels_wpf.pdb
+D:\DotNetWorking\Panels_wpf\Panels_wpf\obj\Debug\Panels_wpf.csproj.AssemblyReference.cache
+D:\DotNetWorking\Panels_wpf\Panels_wpf\obj\Debug\MainWindow.g.cs
+D:\DotNetWorking\Panels_wpf\Panels_wpf\obj\Debug\App.g.cs
+D:\DotNetWorking\Panels_wpf\Panels_wpf\obj\Debug\Panels_wpf_MarkupCompile.cache
+D:\DotNetWorking\Panels_wpf\Panels_wpf\obj\Debug\Panels_wpf_MarkupCompile.lref
+D:\DotNetWorking\Panels_wpf\Panels_wpf\obj\Debug\MainWindow.baml
+D:\DotNetWorking\Panels_wpf\Panels_wpf\obj\Debug\Panels_wpf.g.resources
+D:\DotNetWorking\Panels_wpf\Panels_wpf\obj\Debug\Panels_wpf.Properties.Resources.resources
+D:\DotNetWorking\Panels_wpf\Panels_wpf\obj\Debug\Panels_wpf.csproj.GenerateResource.cache
+D:\DotNetWorking\Panels_wpf\Panels_wpf\obj\Debug\Panels_wpf.csproj.CoreCompileInputs.cache
+D:\DotNetWorking\Panels_wpf\Panels_wpf\obj\Debug\Panels_wpf.exe
+D:\DotNetWorking\Panels_wpf\Panels_wpf\obj\Debug\Panels_wpf.pdb
